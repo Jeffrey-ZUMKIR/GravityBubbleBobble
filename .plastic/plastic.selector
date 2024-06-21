@@ -1,0 +1,4 @@
+repository "Gravity Bubble Bobble@JZumStudio@cloud"
+  path "/"
+    br "/main"
+    co "/main"
